@@ -26,7 +26,7 @@ The developed model exhibits an accuracy of 83%, showcasing its capability to ac
 1. Clone the repository:
 
     
-    git clone https://github.com/yourusername/depression-detector-nlp.git
+    git clone [https://github.com/yourusername/depression-detector-nlp.git](https://github.com/NatchayaSU/Project-in-Artificial-Intelligence-for-Data-Analytics/)
     cd depression-detector-nlp
     
 
